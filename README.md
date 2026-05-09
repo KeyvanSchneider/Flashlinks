@@ -1,8 +1,8 @@
 # Flashlinks
 
-Flashlinks is an Obsidian plugin that turns custom `::links::` into intelligent flashcards.
+Flashlinks is a plugin that turns custom `::links::` into intelligent flashcards.
 
-Flashlinks est un plugin Obsidian qui transforme des liens personnalisés `::comme ceci::` en flashcards intelligentes.
+Flashlinks est un plugin qui transforme des liens personnalisés `::comme ceci::` en flashcards intelligentes.
 
 ## English
 
