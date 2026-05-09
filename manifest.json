@@ -1,0 +1,10 @@
+{
+  "id": "flashlinks",
+  "name": "Flashlinks",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Create intelligent flashcards from custom ::flashcard:: links inside Obsidian notes.",
+  "author": "Keyvan Schneider",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
