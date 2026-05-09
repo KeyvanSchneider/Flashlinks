@@ -1,0 +1,17 @@
+{
+  "name": "flashlinks",
+  "version": "0.1.0",
+  "description": "Intelligent flashcard links for Obsidian notes.",
+  "author": "Keyvan Schneider",
+  "main": "main.js",
+  "scripts": {
+    "check": "node --check main.js"
+  },
+  "keywords": [
+    "obsidian",
+    "flashcards",
+    "spaced-repetition"
+  ],
+  "license": "MIT",
+  "devDependencies": {}
+}
